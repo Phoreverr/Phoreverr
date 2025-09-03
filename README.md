@@ -4,7 +4,7 @@
 
 ### 👋 About Me
 
-Hi! I'm Forever Oluwayomi — a frontend developer who brings interfaces to life with clean code, modern tools, and a strong sense of user experience. I focus on performance, accessibility, and maintainable design systems.
+Hi! I bring user interface designs to life with clean code, modern tools, and a strong sense of user experience. I focus on performance, accessibility, and maintainable design systems.
 
 ---
 
