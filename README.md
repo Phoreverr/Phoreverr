@@ -1,14 +1,12 @@
 <h1 align="center">Turning pixels into polished experiences. </h1>
 
-###
-
-### 👋 About Me
+# 👋 About Me
 
 Hi! I bring user interface designs to life with clean code, modern tools, and a strong sense of user experience. I focus on performance, accessibility, and maintainable design systems.
 
 ---
 
-### 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
@@ -50,26 +48,23 @@ Hi! I bring user interface designs to life with clean code, modern tools, and a 
 
 ---
 
-### 📧 Most Recent Project 
+# 🚀 Most Recent Project 
 
 If you're interested in learning more about me or my work, feel free to reach out
 But here are some of my most recent projects so far:
 
-## 🚀 Projects
-
 ### OpenCDP-editor
-- **Description:** An NPM package I built from scratch to provide a customizable text editor with formatting tools.  
-- **Live Link:** [NPM Package](https://www.npmjs.com/package/openCDP-editor)  
-- **GitHub:** [View Repository](https://github.com/yourusername/openCDP-editor)  
+- **Description:** A React rich text editor component designed for openCDP, featuring a robust, extensible toolbar and seamless integration with Ant Design. It includes a sanitization layer using DOMPurify to ensure content security and a flexible modal system.   
+- **Live Link:** [NPM Package](https://www.npmjs.com/package/@codematic.io/open-cdp-editor?activeTab=readme)  
+- **GitHub:** [View Repository](https://github.com/code-matic/openCDP-editor)  
 
 ---
 
-### [Project Title Here]
-- **Description:** [Short description of what the project does / solves]  
-- **Live Link:** [Live Demo](https://your-live-link.com)  
-- **GitHub:** [View Repository](https://github.com/yourusername/project-repo)  
+### Golden Compliance
+- **Description:** Golden Compliance is a regulatory consulting platform that helps businesses meet industry standards and compliance obligations.  
+- **Live Link:** [Live Demo](https://gc.codematic.io/)  
+- **GitHub:** 🔒 Private Repository   
 
----
 ---
 
 ### 🎯 Fun Fact
