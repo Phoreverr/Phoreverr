@@ -50,17 +50,26 @@ Hi! I bring user interface designs to life with clean code, modern tools, and a 
 
 ---
 
-### 📧 Contact Me
+### 📧 Most Recent Project 
 
-If you're interested in learning more about me or my work, feel free to reach out:
+If you're interested in learning more about me or my work, feel free to reach out
+But here are some of my most recent projects so far:
 
-<p align="left">
-  <a href="mailto:oluwayomiforever@gmail.com" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=gmail" height="20" style="margin-bottom: -4px;" />
-    <span>oluwayomiforever@gmail.com</span>
-  </a>
-</p>
+## 🚀 Projects
 
+### OpenCDP-editor
+- **Description:** An NPM package I built from scratch to provide a customizable text editor with formatting tools.  
+- **Live Link:** [NPM Package](https://www.npmjs.com/package/openCDP-editor)  
+- **GitHub:** [View Repository](https://github.com/yourusername/openCDP-editor)  
+
+---
+
+### [Project Title Here]
+- **Description:** [Short description of what the project does / solves]  
+- **Live Link:** [Live Demo](https://your-live-link.com)  
+- **GitHub:** [View Repository](https://github.com/yourusername/project-repo)  
+
+---
 ---
 
 ### 🎯 Fun Fact
