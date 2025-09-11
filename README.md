@@ -60,10 +60,7 @@ But here are some of my most recent projects so far:
 
 ---
 
-### Golden Compliance
-- **Description:** Golden Compliance is a regulatory consulting platform that helps businesses meet industry standards and compliance obligations.  
-- **Live Link:** [Live Demo](https://gc.codematic.io/)  
-- **GitHub:** 🔒 Private Repository   
+
 
 ---
 
