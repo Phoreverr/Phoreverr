@@ -60,17 +60,6 @@ But here are some of my most recent projects so far:
 
 ---
 
-
-
----
-
-# 📜 Certifications 
-
-- [Associate Cloud Engineer ](https://www.credly.com/badges/e0c10ac9-1410-428b-9b3c-9e902b7a9016/public_url) – Google Cloud  
-- [Professional CLoud Architect](https://www.credly.com/badges/d3ee36dc-2338-4d78-9c64-63210b8d8c56/public_url) – Google Cloud   
-
----
-
 # 🎯 Fun Fact
 
 When I'm not coding, you'll find me watching anime, playing call of duty or hitting the gym
