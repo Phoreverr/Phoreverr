@@ -55,7 +55,7 @@ But here are some of my most recent projects so far:
 
 ### OpenCDP-editor(NPM-Package)
 - **Description:** A React rich text editor component designed for openCDP, featuring a robust, extensible toolbar and seamless integration with Ant Design. It includes a sanitization layer using DOMPurify to ensure content security and a flexible modal system.   
-- **Live Link:** [NPM Package](https://www.npmjs.com/package/@codematic.io/open-cdp-editor?activeTab=readme)  
+- **Live Link:** [NPM Package](https://www.npmjs.com/package/@codematic.io/cdp-editor)  
 - **GitHub:** [View Repository](https://github.com/code-matic/openCDP-editor)  
 
 ---
