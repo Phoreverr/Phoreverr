@@ -1,64 +1,44 @@
-<h1 align="center">Turning pixels into polished experiences. </h1>
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Forever Oluwayomi, Senior Frontend Engineer: React, Next.js, TypeScript, Google Cloud certified" />
+</p>
 
-# 👋 About Me
+<p align="center">
+  <a href="https://phorever-dev.vercel.app"><img src="assets/button-portfolio.svg" height="40" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/phorever/"><img src="assets/button-linkedin.svg" height="40" alt="LinkedIn" /></a>
+  <a href="mailto:phorever064@gmail.com"><img src="assets/button-email.svg" height="40" alt="Email" /></a>
+</p>
 
-Hi! I bring user interface designs to life with clean code, modern tools, and a strong sense of user experience. I focus on performance, accessibility, and maintainable design systems.
+<br />
 
----
+I turn complex products into fast, dependable interfaces. Over five years I've shipped customer platforms, data-heavy dashboards, and published NPM packages, and I own the frontend architecture behind them: component systems, state and data fetching, performance, and the tooling that helps teams ship faster.
 
-# 🛠 Tech Stack
+I also hold four Google Cloud certifications, so I think beyond the browser: how the UI is served, scaled, and kept fast in production.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="gcp logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=npm" height="60" alt="npm logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="60" alt="redux logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="60" alt="stackoverflow logo" />
-</div>
+## Selected work
 
----
+<p align="center">
+  <a href="https://conviso.ai/"><img src="assets/project-conviso.svg" width="49%" alt="Conviso: B2B behavioural messaging platform" /></a>
+  <a href="https://www.npmjs.com/package/@codematic.io/cdp-editor"><img src="assets/project-cdp-editor.svg" width="49%" alt="CDP Editor: NPM package" /></a>
+  <a href="https://www.havara.com/"><img src="assets/project-havara.svg" width="49%" alt="Havara: booking platform" /></a>
+  <a href="https://www.roeweddings.com/"><img src="assets/project-roe-weddings.svg" width="49%" alt="ROE Weddings: business website" /></a>
+</p>
 
-# 🚀 Most Recent Project 
+<p align="center">
+  <sub>CDP Editor source: <a href="https://github.com/Phoreverr/openCDP-editor">openCDP-editor</a> · More client work on my <a href="https://phorever-dev.vercel.app">portfolio</a></sub>
+</p>
 
-If you're interested in learning more about me or my work, feel free to reach out
-But here are some of my most recent projects so far:
+## Tech stack
 
-### OpenCDP-editor(NPM-Package)
-- **Description:** A React rich text editor component designed for openCDP, featuring a robust, extensible toolbar and seamless integration with Ant Design. It includes a sanitization layer using DOMPurify to ensure content security and a flexible modal system.   
-- **NPM Link:** [NPM Package](https://www.npmjs.com/package/@codematic.io/cdp-editor)   
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,sass,html&perline=8" alt="TypeScript, JavaScript, React, Next.js, Redux, Tailwind CSS, Sass, HTML" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=gcp,firebase,docker,git,npm,figma,py&perline=8" alt="Google Cloud, Firebase, Docker, Git, npm, Figma, Python" />
+</p>
 
----
+## Certifications
 
-# 🎯 Fun Fact
+<p align="center">
+  <img src="assets/certifications.svg" width="100%" alt="Google Cloud certifications: Generative AI Leader (Nov 2026), Professional Cloud Developer (Mar 2026), Professional Cloud Architect (Sep 2024), Associate Cloud Engineer (May 2024)" />
+</p>
 
-When I'm not coding, you'll find me watching anime, playing call of duty or hitting the gym
+<p align="center"><sub>Off the keyboard: anime, Call of Duty Mobile, lifting, and travelling.</sub></p>
